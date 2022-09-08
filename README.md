@@ -12,6 +12,6 @@ Logitech G29
 
 ## Screenshots
 
-![image](https://github.com/holydarktank2/VR_Gallery/blob/main/screenshots/Screenshot_1.png)
-![image](https://github.com/holydarktank2/VR_Gallery/blob/main/screenshots/Screenshot_2.png)
-![image](https://github.com/holydarktank2/VR_Gallery/blob/main/screenshots/Screenshot_3.gif)
+![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
+![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
+![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
