@@ -13,5 +13,5 @@ Logitech G29
 ## Screenshots
 
 ![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
-![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
-![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot1.PNG)
+![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot2.PNG)
+![image](https://github.com/holydarktank2/Graduation-Project/blob/main/screenshots/Screenshot3.gif)
